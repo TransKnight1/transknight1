@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A Brazilian frontend developer</h3>
 
-- 🔭 I’m currently working on **Phasmophobia Notebook Clone**
+- 🔭 I’m currently working on **Projects for Kodama organization**
 
-- 🌱 I’m currently learning **Typescript, React, Nextjs, Storybook and Tailwind**
+- 🌱 I’m currently learning **Typescript, React, Nextjs, Storybook, Remix and Tailwind**
 
 - 📫 How to reach me **leo.zn_97@hotmail.com**
 
